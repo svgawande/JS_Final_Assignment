@@ -1,0 +1,34 @@
+body{
+    background-image: url('../images/pexels-pixabay-255464.jpg')
+}
+#image{
+    line-height:350px;
+		width: 575px;
+    height: auto;
+		margin: auto;
+    color:white;
+    background-image: url('');
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:150px;
+    margin-top: 50px;
+    font-size: 150%;  
+    border-radius: 5px;
+    background-color: rgb(102, 65, 25);
+    box-shadow: 1px 1px 30px 14px rgba(91,102,65,1); 
+  }
+    
+.img-thumbnail{
+    display: inline;          
+}
+.preview{
+		width:10%;
+    margin-left: 5%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+img{
+		width:95%;
+}
+
